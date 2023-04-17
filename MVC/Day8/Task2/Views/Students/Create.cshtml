@@ -1,0 +1,63 @@
+﻿@model Task2.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+<script src ="~/lib/jquery/jquery.min.js" ></script>
+ <script src ="~/lib/jquery-validate/jquery.validate.min.js" ></script>
+ <script src ="~/lib/jquery-validate-unobtrusive/jquery.validate.unobtrusive.min.js" ></script>
+
+<div class="p-5">
+    <h1 >Create</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row p-3">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group pb-3">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group pb-3">
+                <label asp-for="gender" class="control-label"></label>
+                <select asp-for="gender" class="form-control">
+                    <option value="male"> Male </option>
+                    <option value="female"> Female </option>
+                </select>
+                <span asp-validation-for="gender" class="text-danger"></span>
+            </div>
+            <div class="form-group pb-3">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group pb-3">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group pb-3">
+                <label asp-for="Birthdate" class="control-label"></label>
+                <input asp-for="Birthdate" class="form-control" />
+                <span asp-validation-for="Birthdate" class="text-danger"></span>
+            </div>
+            <div class="form-group pb-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
