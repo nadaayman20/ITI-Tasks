@@ -1,0 +1,24 @@
+﻿@using Day3.Controllers
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@helper ListHelper(string[] strList)
+{
+    <ol style="font-size:17px">
+        @foreach (var item in strList)
+        {
+            <li>@item</li>
+
+        }
+    </ol>
+}
+@{
+    string[] strBooks = new string[] { "Web Development", "Artificial Intelligence", "Mobile App", "Cyber Security", "Devops" };
+}
+
+<div id="data" style="background-color:lightblue;width:300px; height:300px;padding:20px">
+    <h4> Computer Science Fields List:</h4> 
+    @ListHelper(strBooks)
+</div>
