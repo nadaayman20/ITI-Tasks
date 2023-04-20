@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+    <div class="containerr">
+        <div class="left">
+            <form method="post">
+                <label>Choose a background images : </label>
+                <select name="background">
+                    @for (var i = 0; i < 12; i++)
+                    {
+                        <option value="@i">@i</option>
+                    }
+                </select>
+
+                <br /><br />
+                <label>Choose a Font Color : </label>
+                <select name="color">
+                    <option value="black">Black</option>
+                    <option value="hotpink">HotPink</option>
+                    <option value="gray">Gray</option>
+                    <option value="purple">Purple</option>
+                    <option value="teal">Teal</option>
+
+                </select>
+                <br /><br />
+
+                <label>Choose a greeting Type:</label>
+                <br />
+                <input type="radio" name="types" value="bd2.jpg&Happy Birthday !!" /> Birthday <br />
+                <input type="radio" name="types" value="well.gif&Get Well Soon !!" /> Get Well Soon <br />
+                <input type="radio" name="types" value="val.bmp&Happy Valentine !!" /> Valentine <br />
+                <input type="radio" name="types" value="congrats2.gif&Congratulations !!" /> Congrats <br /> <br />
+
+                <input type="checkbox" name="image" value="true" /> Add the Picture
+                <br /><br />
+                <textarea name="text" cols="50" rows="10" placeholder="enter your message"></textarea>
+                <br /><br />
+                <input type="submit" value="preview" />
+            </form>
+
+        </div>
+            @if (IsPost)
+            {
+
+                string backgroundImage = Request["background"]?.Length > 0 ? (Request["background"] + ".jpg") : "";
+                string image = Request["types"]?.Split('&')[0] ;
+                string header = Request["types"]?.Split('&')[1];
+                string fontcolor = Request["color"];
+                bool Picture = Request["image"]?.Length > 0 ? Request["image"] == "true" : false;
+                <div class="right" style="background:url(backgrounds/@backgroundImage);color:@fontcolor">
+                    <div>
+                        <h1 style="padding:10px">@header</h1>
+                        @if (Picture)
+                        {
+                            <img src="images/@image"  width="300"/>
+                        }
+                        <h2 style="padding:10px">
+                            @Request["text"]
+                        </h2>
+                    </div>
+                </div>
+            }
+        </div>
+
+</body>
+</html>
