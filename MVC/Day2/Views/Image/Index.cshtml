@@ -1,0 +1,30 @@
+﻿@using Day2.Controllers;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Please Fill out this form</h2>
+
+
+<form method="post" action="/Image/Show">
+  
+    <label>ID:</label> &nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="number" name="ID" />
+    <br />
+    <br />
+    <label>Name:</label>
+    <input type="text" name="Name" />
+    <br />
+    <br />
+    <label>Image:</label>
+    <select name="Image">
+        @for (int i = 1; i <= 7; i++)
+        {
+            <option value="@i">@i</option>
+        }
+    </select>
+    <br />
+    <br />
+    <input type="submit" />
+</form>
+

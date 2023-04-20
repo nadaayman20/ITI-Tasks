@@ -1,0 +1,15 @@
+﻿@using Day2.Models;
+@{
+    ViewBag.Title = "Show";
+}
+
+<h2>Show Details</h2>
+
+
+<div>
+    @{ var url = "/images/" + ViewBag.Image.URL + ".jpg";}
+    <p>Your ID: @ViewBag.Image.ID</p>
+    <p>Your Name: @ViewBag.Image.Name</p>
+    <img src=@url width="400" />
+</div>
+

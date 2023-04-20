@@ -1,0 +1,17 @@
+﻿@using Day2.Models;
+@{
+    ViewBag.Title = "Edit";
+    var selectedCar = (Car) ViewBag.curCar;
+}
+
+<h2>Edit</h2>
+<form method="post" action="/Car/EditSave">
+    <input type="hidden" name="Number" value="@selectedCar.Num" />
+    <input type="text" name="Color" value="@selectedCar.Color" />
+    <input type="text" name="Model" value="@selectedCar.Model" />
+    <input type="text" name="Manfacture" value="@selectedCar.Manfacture" />
+
+    <input type="submit" value="Save" />
+
+</form>
+
