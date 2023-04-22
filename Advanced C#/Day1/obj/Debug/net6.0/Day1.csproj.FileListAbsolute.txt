@@ -1,0 +1,30 @@
+E:\ITI Dot NET\Practice\C#\Day1\bin\Debug\net6.0\Day1.exe
+E:\ITI Dot NET\Practice\C#\Day1\bin\Debug\net6.0\Day1.deps.json
+E:\ITI Dot NET\Practice\C#\Day1\bin\Debug\net6.0\Day1.runtimeconfig.json
+E:\ITI Dot NET\Practice\C#\Day1\bin\Debug\net6.0\Day1.dll
+E:\ITI Dot NET\Practice\C#\Day1\bin\Debug\net6.0\Day1.pdb
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.dll
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\refint\Day1.dll
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.pdb
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\Day1.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\C#\Day1\obj\Debug\net6.0\ref\Day1.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day1\bin\Debug\net6.0\Day1.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day1\bin\Debug\net6.0\Day1.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day1\bin\Debug\net6.0\Day1.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day1\bin\Debug\net6.0\Day1.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day1\bin\Debug\net6.0\Day1.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\refint\Day1.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\Day1.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day1\obj\Debug\net6.0\ref\Day1.dll
