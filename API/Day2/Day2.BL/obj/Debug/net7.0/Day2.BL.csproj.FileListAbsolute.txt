@@ -1,0 +1,14 @@
+E:\ITI Dot NET\Solution\API\Day2.BL\bin\Debug\net7.0\Day2.BL.deps.json
+E:\ITI Dot NET\Solution\API\Day2.BL\bin\Debug\net7.0\Day2.BL.runtimeconfig.json
+E:\ITI Dot NET\Solution\API\Day2.BL\bin\Debug\net7.0\Day2.BL.dll
+E:\ITI Dot NET\Solution\API\Day2.BL\bin\Debug\net7.0\Day2.BL.pdb
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.AssemblyInfo.cs
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.dll
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\refint\Day2.BL.dll
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.pdb
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\Day2.BL.genruntimeconfig.cache
+E:\ITI Dot NET\Solution\API\Day2.BL\obj\Debug\net7.0\ref\Day2.BL.dll
