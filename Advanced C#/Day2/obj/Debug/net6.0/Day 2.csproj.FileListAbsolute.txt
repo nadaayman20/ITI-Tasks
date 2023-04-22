@@ -1,0 +1,15 @@
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\bin\Debug\net6.0\Day 2.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\bin\Debug\net6.0\Day 2.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\bin\Debug\net6.0\Day 2.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\bin\Debug\net6.0\Day 2.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\bin\Debug\net6.0\Day 2.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\refint\Day 2.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\Day 2.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 2\obj\Debug\net6.0\ref\Day 2.dll
