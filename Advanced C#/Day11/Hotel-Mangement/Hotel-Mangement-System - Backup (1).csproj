@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Hotel_Mangement_System</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\breakfast.png" />
+    <None Remove="assets\Dinner_new_png.png" />
+    <None Remove="assets\edit.png" />
+    <None Remove="assets\lunch_new_png.png" />
+    <None Remove="assets\room.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialMessageBox" Version="4.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\breakfast.png" />
+    <Resource Include="assets\Dinner_new_png.png" />
+    <Resource Include="assets\edit.png" />
+    <Resource Include="assets\lunch_new_png.png" />
+    <Resource Include="assets\room.png" />
+  </ItemGroup>
+
+</Project>

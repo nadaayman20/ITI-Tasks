@@ -1,0 +1,48 @@
+﻿<Window x:Class="Hotel_Mangement_System.login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hotel_Mangement_System"
+        mc:Ignorable="d"
+        Title="login" Height="464" Width="688">
+    <Border BorderThickness="0,7,0,0" BorderBrush="#FF2AAE6B" >
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="24*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <TextBlock FontSize="22" x:Name="textBlock" HorizontalAlignment="Left" Margin="26,18,0,0"  Text="Login" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+            <Label FontSize="20" x:Name="label1" Grid.Column="1" 
+                   HorizontalAlignment="Left" Margin="181,83,0,0" VerticalAlignment="Top"
+                   RenderTransformOrigin="-0.23,0.062"/>
+            <TextBox FontSize="18"  Background="#FFF0EEEE" BorderBrush="#FF2AAE6B" 
+                     Padding="35,5,10,5" x:Name="text1" GotFocus="UserGotFocus_Click" 
+                     Grid.Column="1" HorizontalAlignment="Center" Text="Username" VerticalAlignment="Top"
+                     Width="250" Margin="0,137,0,0">
+            </TextBox>
+
+            <Label FontSize="20" x:Name="label2" Grid.Column="1"
+                    HorizontalAlignment="Left" Margin="181,187,0,0" 
+                   VerticalAlignment="Top" RenderTransformOrigin="-0.23,0.062"/>
+            <PasswordBox Password="Password"  Background="#FFF0EEEE" BorderBrush="#FF2AAE6B"
+                     FontSize="18" Padding="35,5,10,5" x:Name="text2" GotFocus="PassGotFocus_Click"
+                    Grid.Column="1" HorizontalAlignment="Center" Margin="0,240,0,0"
+                         VerticalAlignment="Top" Width="250"/>
+          
+            <Button FontSize="20" Padding="0,5,0,5" x:Name="SignIn" Background="#FFF0EEEE"
+                    BorderBrush="#FF2AAE6B" Grid.Column="1" Content="Sign in"
+                    HorizontalAlignment="Center" Margin="0,305,0,0" VerticalAlignment="Top"
+                    Width="250" Height="45" Click="SignIn_Button"/>
+            <Image  Grid.Column="1" Margin="205,137,417,249" Source="/assets/edit.png" Stretch="Fill" />
+
+            <Button Content="License" HorizontalAlignment="Left"  Background="#FFF0EEEE" BorderBrush="#FF2AAE6B"  Margin="517,366,0,0" VerticalAlignment="Top" Height="30" Width="90" Grid.Column="1" FontSize="18" RenderTransformOrigin="0.418,-0.811" Click="License_Button"/>
+            <Image  Grid.Column="1" Margin="205,240,417,146" Source="/assets/edit.png" Stretch="Fill" />
+
+        </Grid>
+
+    </Border>
+
+</Window>

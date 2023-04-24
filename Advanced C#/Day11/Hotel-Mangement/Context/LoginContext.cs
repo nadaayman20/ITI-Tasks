@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Hotel_Mangement_System.Entities;
+
+namespace Hotel_Mangement_System.Context
+{
+    public partial class LoginContext : DbContext
+    {
+        public virtual DbSet<frontend> frontends { get; set; }
+        public virtual DbSet<kitchen> kitchens { get; set; }
+
+        public LoginContext()
+        {
+        }
+
+        public LoginContext(DbContextOptions<LoginContext> options) : base(options)
+        {
+        }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=LOGIN_MANAGER;Integrated Security=True;Encrypt=false;");
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<frontend>(entity =>
+            {
+                entity.HasKey(e => e.user_name)
+                    .HasName("PK_Table");
+            });
+
+            modelBuilder.Entity<kitchen>(entity =>
+            {
+                entity.HasKey(e => e.user_name)
+                    .HasName("PK__kitchen__7628B51D2FDAF8B5");
+            });
+
+            OnModelCreatingPartial(modelBuilder);
+        }
+
+        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+    }
+}
