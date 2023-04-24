@@ -1,0 +1,47 @@
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Task9 WPF.exe
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Task9 WPF.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Task9 WPF.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Task9 WPF.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Task9 WPF.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\App.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF_MarkupCompile.cache
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF_MarkupCompile.lref
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.g.resources
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\refint\Task9 WPF.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\ref\Task9 WPF.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\Task9 WPF.csproj.CopyComplete
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\DetailedView.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Task9 WPF\obj\Debug\net7.0-windows\DetailedView.baml
