@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Day_8_P3</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\image1.png" />
+    <None Remove="images\image2.png" />
+    <None Remove="images\image3.png" />
+    <None Remove="images\image4.png" />
+    <None Remove="images\image5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\image1.png" />
+    <Resource Include="images\image2.png" />
+    <Resource Include="images\image3.png" />
+    <Resource Include="images\image4.png" />
+    <Resource Include="images\image5.png" />
+  </ItemGroup>
+
+</Project>

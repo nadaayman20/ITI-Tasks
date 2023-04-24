@@ -1,0 +1,63 @@
+E:\ITI Dot NET\Practice\Advanced C#\Day8\bin\Debug\net7.0-windows\Day8.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day8\bin\Debug\net7.0-windows\Day8.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day8\bin\Debug\net7.0-windows\Day8.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day8\bin\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8\bin\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\App.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8_MarkupCompile.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8_MarkupCompile.lref
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.g.resources
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\refint\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\Day8.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8\obj\Debug\net7.0-windows\ref\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\bin\Debug\net7.0-windows\Day8.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\bin\Debug\net7.0-windows\Day8.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\bin\Debug\net7.0-windows\Day8.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\bin\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\bin\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\App.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8_MarkupCompile.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8_MarkupCompile.lref
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.g.resources
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\refint\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\Day8.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day8 P1\obj\Debug\net7.0-windows\ref\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\bin\Debug\net7.0-windows\Day8.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\bin\Debug\net7.0-windows\Day8.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\bin\Debug\net7.0-windows\Day8.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\bin\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\bin\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\App.g.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8_MarkupCompile.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8_MarkupCompile.lref
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\MainWindow.baml
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.g.resources
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\refint\Day8.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\Day8.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day 8\Task 1\obj\Debug\net7.0-windows\ref\Day8.dll
