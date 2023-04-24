@@ -1,0 +1,30 @@
+E:\ITI Dot NET\Practice\Advanced C#\Day6\bin\Debug\net7.0\Day6.exe
+E:\ITI Dot NET\Practice\Advanced C#\Day6\bin\Debug\net7.0\Day6.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\Day6\bin\Debug\net7.0\Day6.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\Day6\bin\Debug\net7.0\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day6\bin\Debug\net7.0\Day6.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\refint\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.pdb
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\Day6.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\Day6\obj\Debug\net7.0\ref\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\bin\Debug\net7.0\Day6.exe
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\bin\Debug\net7.0\Day6.deps.json
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\bin\Debug\net7.0\Day6.runtimeconfig.json
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\bin\Debug\net7.0\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\bin\Debug\net7.0\Day6.pdb
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\refint\Day6.dll
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.pdb
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\Day6.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Advanced C#\LINQ (Day 6 & 7)\obj\Debug\net7.0\ref\Day6.dll
