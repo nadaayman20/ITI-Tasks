@@ -1,0 +1,29 @@
+body{
+    background-color: #FFC0CB;
+}
+.home{
+    text-align: center;
+    margin: 200px auto;
+}
+.home img{
+    width: 350px;
+}
+.headers{
+    text-align: center;
+}
+.data , .external{
+    margin: 40px 0;
+}
+.image{
+    text-align: center;
+    margin: 40px 0;
+}
+.links{
+    text-align: right;
+}
+.content{
+    text-align: center;
+}
+.mail{
+    margin: 50px 0;
+}
