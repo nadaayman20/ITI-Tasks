@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Application</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+ <div class="regForm">
+    <form action="./home.html" method="get">
+        <table border="10" cellpadding=5  >
+            <tbody >
+                <tr >
+                    <td >
+                        <label for="fn"> First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" name="fname" id="fn">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ln"> Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" name="lname" id="ln">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="pass"> Password</label>
+                    </td>
+                    <td>
+                        <input type="password" name="pass" id="pass">
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <label for=""> Gender</label>
+                    </td>
+                    <td colspan="2">
+                        <input type="radio" name="gender" id="m" value="male">
+                        <label for="m">Male</label>
+                    </td>   
+                   
+                </tr>
+                <tr>
+                    <td>
+                        <input type="radio" name="gender" id="f" value="female">
+                        <label for="f">Female</label>
+                    </td>   
+                </tr>
+
+                 <tr>
+                    <td>Birthday
+                        <select> 
+                            <option>[select a month]</option>
+                            <option value="">Jan</option>
+                            <option value="">Feb</option>
+                            <option value="">March</option>
+                            <option value="">Apirl</option>
+                            <option value="">May</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" value="dd" style="width: 50px;">
+                        <input type="text" value="yy" style="width: 50px;">
+                    </td>
+                 </tr>
+                 <tr>
+                    <th colspan="2"><u>Intersts</u></th>
+                 </tr>
+                 <tr>
+                   <td>
+                    <input type="checkbox" name="skill" id="sport" value="sports">
+                    <label for="sport">Sports</label>
+                   </td>
+                   <td>
+                    <input type="checkbox" name="skill" id="music" value="music">
+                    <label for="music">Music</label>
+                   </td>
+                 </tr>
+                 <tr>
+                    <td>
+                     <input type="checkbox" name="skill" id="book" value="book">
+                     <label for="book">Books</label>
+                    </td>
+                    <td>
+                     <input type="checkbox" name="skill" id="computer" value="computer">
+                     <label for="computer">Computer Stuff</label>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                     <input type="checkbox" name="skill" id="fashoin" value="fashoin">
+                     <label for="fashoin">Fashoin</label>
+                    </td>
+                    <td>
+                     <input type="checkbox" name="skill" id="movie" value="movie">
+                     <label for="movie">Movies</label>
+                    </td>
+                  </tr>
+                  
+
+            </tbody>
+
+            <tfoot>
+                <tr>
+                    <th colspan="2">
+                        <input type="submit" value="Submit">
+                    </th>
+                </tr>
+            </tfoot>
+        </table>
+   </form>
+ </div>
+</body>
+</html>
