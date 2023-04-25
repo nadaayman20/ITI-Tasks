@@ -1,0 +1,15 @@
+E:\ITI Dot NET\Practice\Day02\bin\Debug\net6.0\Day02.exe
+E:\ITI Dot NET\Practice\Day02\bin\Debug\net6.0\Day02.deps.json
+E:\ITI Dot NET\Practice\Day02\bin\Debug\net6.0\Day02.runtimeconfig.json
+E:\ITI Dot NET\Practice\Day02\bin\Debug\net6.0\Day02.dll
+E:\ITI Dot NET\Practice\Day02\bin\Debug\net6.0\Day02.pdb
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.dll
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\refint\Day02.dll
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.pdb
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\Day02.genruntimeconfig.cache
+E:\ITI Dot NET\Practice\Day02\obj\Debug\net6.0\ref\Day02.dll
