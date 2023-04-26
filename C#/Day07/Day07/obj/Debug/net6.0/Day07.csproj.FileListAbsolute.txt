@@ -1,0 +1,23 @@
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.exe
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.deps.json
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.runtimeconfig.json
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\bin\Debug\net6.0\Day07.pdb
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.pdb
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\Day07.genruntimeconfig.cache
+D:\ITI Training\2023\C#\Day07\Day07\obj\Debug\net6.0\ref\Day07.dll
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.AssemblyReference.cache
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfoInputs.cache
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.AssemblyInfo.cs
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.csproj.CoreCompileInputs.cache
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.dll
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\refint\Day07.dll
+E:\ITI Dot NET\Practice\C#\Day07\Day07\obj\Debug\net6.0\Day07.pdb
