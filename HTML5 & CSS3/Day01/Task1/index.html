@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <video id="video" src="./video.mp4" width="600" ></video>
+
+    <div class="controls">
+        <input type="range" id="progres" value="0" min="0" style="width: 600px;">
+ 
+
+            <time id="curTime"> 00:00</time>
+            <span> / </span>
+            <time id="endTime">00:00</time>
+    
+        <br><br>
+        <button id="play">Play</button>
+        <button id="stop">Stop</button>
+        <button id="start">&lt;&lt;</button>
+        <button id="back">&lt;</button>
+        <button id="forward">&gt;</button>
+        <button id="end">&gt;&gt;</button>
+        <br><br>
+        <label for="">Volume</label>
+        <input id="vol-control" type="range" min="0" max="100" step="1" oninput="thisVolume(this.value)" onchange="thisVolume(this.value)" style="width: 200px;"/>
+        <span id="vol"></span>
+        <button id="Muted">Mute</button>
+        <br><br>
+        <label for="">Speed</label>   
+        <input type="range" min="0.5" max="3" step=".1" value="1" id="slider" oninput="outputUpdate(value)" onchange="outputSpeed(value)" style="width: 200px;">
+        <output for="slider" id="playbackrate">1.0</output>x</div>
+
+    </div>
+  
+
+    <script src="./main.js"> </script>
+</body>
+</html>
