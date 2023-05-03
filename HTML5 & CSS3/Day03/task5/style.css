@@ -1,0 +1,11 @@
+span{
+    display: none;
+}
+input:invalid + span{
+    display: block;
+    margin: 10px;
+}
+
+input:invalid{
+    outline: 1px solid red;
+}
