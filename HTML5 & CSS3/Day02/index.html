@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./conditionizr-4.4.0/dist/conditionizr.js"></script>
+    <script src="./task1.js"></script>
+</head>
+<body>
+    
+  <div class="container" style= "padding:20px;">
+    <svg height="250" width="500">
+        <polygon points="300,30 300,440 45,440"  style="fill:rgb(255, 0, 0);"/>
+
+          <text x="140" y="250" fill="black" font-size="30">
+            a
+          </text>
+          <text x="330" y="170" fill="black" font-size="30">
+            b
+          </text>
+          <text x="150" y="170" fill="black" font-size="30">
+            c
+          </text>
+      </svg>
+     
+   <br><br>
+  <h2>According to Pythagoras Theorem</h2>
+   
+  <math style="padding: 30px; font-size: 30px; color:red">
+     
+        <msup><mi>c</mi></msup>
+        <mo> = </mo>
+        <msqrt>
+        <msup><mi>a</mi><mn>2</mn></msup>
+        <mo>+</mo>
+            
+        <msup><mi>b</mi><mn>2</mn></msup>
+        </msqrt>    
+    
+  </math>
+
+  
+  </div>
+ 
+    <script>
+      conditionizr.polyfill("webStoragePolyfill.js", "NoLocalStorage");
+      conditionizr.polyfill("webStoragePolyfill.js", "NoSessionStorage");
+    </script>
+</body>
+</html>
