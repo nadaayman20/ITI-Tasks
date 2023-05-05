@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+.container{
+    width: 80%;
+    height: 80%;
+    margin:60px auto;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    padding: 40px 60px;
+    border: 5px solid red;
+    font-size: 30px;
+}
